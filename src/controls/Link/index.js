@@ -135,7 +135,7 @@ class Link extends Component {
   };
 
   addLink = (linkTitle, linkTarget, linkTargetOption) => {
-    const { editorState, onChange, config: { trailingWhitespace = true } } = this.props;
+    const { editorState, onChange, config: { trailingWhitespace = false } } = this.props;
     const { currentEntity } = this.state;
     let selection = editorState.getSelection();
 

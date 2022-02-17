@@ -1,8 +1,8 @@
 {
   "name": "react-draft-js-wysiwyg",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A wysiwyg on top of DraftJS.",
-  "main": "dist/react-draft-wysiwyg.js",
+  "main": "dist/react-draft-js-wysiwyg.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/judemanutd/react-draft-wysiwyg"
