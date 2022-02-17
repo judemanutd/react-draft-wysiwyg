@@ -1,13 +1,13 @@
 {
-  "name": "react-draft-wysiwyg",
-  "version": "1.14.7",
+  "name": "react-draft-js-wysiwyg",
+  "version": "2.0.0",
   "description": "A wysiwyg on top of DraftJS.",
   "main": "dist/react-draft-wysiwyg.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jpuri/react-draft-wysiwyg.git"
+    "url": "https://github.com/judemanutd/react-draft-wysiwyg"
   },
-  "author": "Jyoti Puri",
+  "author": "Jude Fernandes",
   "devDependencies": {
     "@babel/core": "^7.7.4",
     "@babel/preset-env": "^7.7.4",
